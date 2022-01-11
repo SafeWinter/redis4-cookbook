@@ -22,12 +22,12 @@
 
 ## 2. Outlines
 
-Status available：:heavy_check_mark:| :hourglass_flowing_sand: | :no_entry:
+Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started) | :orange_book: (Read but not started)
 
 | No.  |                     Chapter Title                     |          Status          |
 | :--: | :---------------------------------------------------: | :----------------------: |
-| Ch01 |        [Getting Started with Redis](./Ch01.md)        | :hourglass_flowing_sand: |
-| Ch02 |                [Data Types](./Ch02.md)                |        :no_entry:        |
+| Ch01 |        [Getting Started with Redis](./Ch01.md)        |    :heavy_check_mark:    |
+| Ch02 |                [Data Types](./Ch02.md)                | :hourglass_flowing_sand: |
 | Ch03 |              [Data Features](./Ch03.md)               |        :no_entry:        |
 | Ch04 |          [Developing with Redis](./Ch04.md)           |        :no_entry:        |
 | Ch05 |               [Replication](./Ch05.md)                |        :no_entry:        |
