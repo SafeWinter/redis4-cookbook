@@ -27,8 +27,8 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | No.  |                     Chapter Title                     |          Status          |
 | :--: | :---------------------------------------------------: | :----------------------: |
 | Ch01 |        [Getting Started with Redis](./Ch01.md)        |    :heavy_check_mark:    |
-| Ch02 |                [Data Types](./Ch02.md)                | :hourglass_flowing_sand: |
-| Ch03 |              [Data Features](./Ch03.md)               |        :no_entry:        |
+| Ch02 |                [Data Types](./Ch02.md)                |    :heavy_check_mark:    |
+| Ch03 |              [Data Features](./Ch03.md)               | :hourglass_flowing_sand: |
 | Ch04 |          [Developing with Redis](./Ch04.md)           |        :no_entry:        |
 | Ch05 |               [Replication](./Ch05.md)                |        :no_entry:        |
 | Ch06 |               [Persistence](./Ch06.md)                |        :no_entry:        |
@@ -39,3 +39,4 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | Ch11 |    [Extending Redis with Redis Modules](./Ch11.md)    |        :no_entry:        |
 | Ch12 |           [The Redis Ecosystem](./Ch12.md)            |        :no_entry:        |
 | Ch13 |        [Windows Environment Setup](./Ch13.md)         |        :no_entry:        |
+
